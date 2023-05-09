@@ -7,7 +7,9 @@ const indexRouter = require('./route');
 const usersRouter = require('./route/users');
 const commentsRouter = require('./route/users');
 
-const app = express();
+require('./model/db');
+
+const app = express();  
 app.set('port',process.env.PORT || 3001);
 app.set('view engine','html');
 nunjcks.configure('view',{
