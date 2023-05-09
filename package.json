@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dron512/learnNode.git"
+    "url": "git+https://github.com/JangHoseoung/Study.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dron512/learnNode/issues"
+    "url": "https://github.com/JangHoseoung/Study/issues"
   },
-  "homepage": "https://github.com/dron512/learnNode#readme",
+  "homepage": "https://github.com/JangHoseoung/Study#readme",
   "dependencies": {
     "env": "^0.0.2",
-    "express": "^4.18.2",
+    "exprenss": "^4.18.2",
     "morgan": "^1.10.0",
     "mysql2": "^3.3.0",
     "nodemon": "^2.0.22",
